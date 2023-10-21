@@ -1,0 +1,49 @@
+body{
+  margin:2px;
+}
+.list-inline{
+  padding:4px;
+  margin-top:2px;
+  
+}
+.list-campaign{
+  background-color:#50575c;
+  color:#101517;
+}
+a{
+  padding:6px;
+}
+.container{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.container{
+  margin-top:30%;
+  padding:12px;
+}
+.text, .lead{
+  padding:4px;
+}
+.educ, .skill, .about{
+  text-indent:4px;
+  display:none;
+}
+#h3{
+  background-color:#50575c;
+  color:white;
+  padding-top:2px;
+  padding-bottom:2px;
+}
+.html, .css, .javascript, .word, .excel{
+  border-radius:10%;
+  border-style:solid;
+  padding-bottom:2px;
+  text-align:center
+}
+.progress-bar{
+  margin:4px;
+}
+hr.hr{
+  border-top:1px solid black;
+}
